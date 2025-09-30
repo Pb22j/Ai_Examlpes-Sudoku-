@@ -11,9 +11,8 @@ import statistics
 # I've cleaned up the string to make it easier to parse.
 
 '''
-Brother We Cooked
 
-He do it in 11 sec
+It Succesd In 11 Sec
 ---
 090600000
 000831000
@@ -496,4 +495,5 @@ def solveSudoku (sudoku):
 solution = solveSudoku(sudoku)
 print(CalculateNumberOfErrors(solution))
 PrintSudoku(solution)
+
 '''
